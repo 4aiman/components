@@ -1,0 +1,4 @@
+[-Licensing for Components mod-]
+
+Code license: LGPLv2/latest
+Media License: CC0

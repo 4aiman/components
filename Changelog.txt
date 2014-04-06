@@ -1,0 +1,31 @@
+[-Components mod changelog-]
+
+v0.8.1
+*Fixed crafting conflict with Technic
+
+v0.8.0
++Added Gears
+*Changed sprites a bit
+*Prepared for release
+
+v0.7.4
++Added Drill and Rings
+*Changed sprites a bit
+
+v0.7.0
+*Extracted from now defunct MoreStuff2 project and rewritten to increase efficiency
++Added File, Cutter, Rods, Wafers
+
+-snip-
+
+v0.3.0
+*Integrated into MoreStuff2 project
+
+v0.2.0
++Added Sprites and recipes
+
+v0.1.0
++Added Code for Hammer, Saw, Plates
+
+v0.0.1
+*Idea formulated
